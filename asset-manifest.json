@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/whisperandvault-receiver/static/css/main.31d6cfe0.css",
-    "main.js": "/whisperandvault-receiver/static/js/main.cef21c1d.js",
+    "main.css": "/whisperandvault-receiver/static/css/main.695b80ac.css",
+    "main.js": "/whisperandvault-receiver/static/js/main.6fca5604.js",
     "static/js/453.3d1e57f5.chunk.js": "/whisperandvault-receiver/static/js/453.3d1e57f5.chunk.js",
     "index.html": "/whisperandvault-receiver/index.html",
-    "main.cef21c1d.js.map": "/whisperandvault-receiver/static/js/main.cef21c1d.js.map",
+    "main.695b80ac.css.map": "/whisperandvault-receiver/static/css/main.695b80ac.css.map",
+    "main.6fca5604.js.map": "/whisperandvault-receiver/static/js/main.6fca5604.js.map",
     "453.3d1e57f5.chunk.js.map": "/whisperandvault-receiver/static/js/453.3d1e57f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.cef21c1d.js"
+    "static/css/main.695b80ac.css",
+    "static/js/main.6fca5604.js"
   ]
 }
